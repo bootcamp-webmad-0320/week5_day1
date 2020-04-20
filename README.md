@@ -94,7 +94,7 @@ Los roles, almacenados en cada usuario como la propiedad `role`, permiten garant
 
   - Renderizado condicional según el rol, enviándolo a la vista mediante una función reusable:
     ````javascript
-    const isAdmin = user => user && user.role === 'ADMIN'
+    const isAdmin = user => user.role === 'ADMIN'
     ````
     Que puede enviarse a una vista:
     ````javascript
