@@ -4,6 +4,8 @@
 >
 > Passport | Security & Roles
 
+Vídeo disponible [en este enlace](https://ironhack.zoom.us/rec/share/vf5Yc6_z511LSZ3tyXHgSpN6P4jvX6a80ChM__sPyE71wSJ34hu1bHIp5bAQf3Cq)
+
 ## Main points: Passport | Sign Up, Login, Logout
 
 - Passport dispone de **Local Strategy** para gestionar el inicio de sesión mediante usuario/contraseña.
